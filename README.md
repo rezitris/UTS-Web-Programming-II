@@ -1,2 +1,6 @@
 # UTS-Web-Programming-II
-TIF RP 17 CID - C
+Nama	: Rezi Tristanto
+Kelas : TIF RP 17 CID - C
+NPM		: 17 111 118
+Tema Project : E-Learning bagian Admin
+Nama Database : elearning.sql | Lokasi file : di folder Database
